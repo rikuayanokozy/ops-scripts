@@ -1,6 +1,6 @@
 #! /bin/bash
 if [ -z $OPENRESTY_VERSION ]; then
-	OPENRESTY_VERSION=1.9.7.3
+	OPENRESTY_VERSION=1.9.15.1
 fi
 
 apt-get update
