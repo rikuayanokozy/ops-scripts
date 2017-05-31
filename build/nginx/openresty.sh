@@ -1,6 +1,6 @@
 #! /bin/bash
 if [ -z $OPENRESTY_VERSION ]; then
-	OPENRESTY_VERSION=1.11.2.1
+	OPENRESTY_VERSION=1.11.2.3
 fi
 PARALLEL=`nproc`
 WD=`pwd`
